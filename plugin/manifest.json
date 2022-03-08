@@ -25,7 +25,7 @@
   "content_scripts": [
     {
       "matches": [
-        "https://courses.projectstem.org/",
+        "https://courses.projectstem.org/*",
         "https://*.instructure.com/*",
         "https://canvas.vt.edu/*",
         "https://canvas.oregonstate.edu/*",
